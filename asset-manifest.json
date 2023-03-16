@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/test-for-tech-goit/static/css/main.7acaea2f.css",
-    "main.js": "/test-for-tech-goit/static/js/main.07d3183d.js",
+    "main.js": "/test-for-tech-goit/static/js/main.d2ee5465.js",
     "index.html": "/test-for-tech-goit/index.html",
     "main.7acaea2f.css.map": "/test-for-tech-goit/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/test-for-tech-goit/static/js/main.07d3183d.js.map"
+    "main.d2ee5465.js.map": "/test-for-tech-goit/static/js/main.d2ee5465.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.d2ee5465.js"
   ]
 }
