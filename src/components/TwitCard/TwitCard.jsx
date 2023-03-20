@@ -18,7 +18,8 @@ export default function TwitCard() {
     if (countFollowers) {
       setFollowers(parseInt(countFollowers));
     }
-  }, []);
+  }, [isFollowing]);
+
   function handleClick() {
     if (following) {
       setFollowing(false);
