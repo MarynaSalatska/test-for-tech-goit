@@ -1,10 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import c from './TwitCard.module.css';
 export default function TwitCard() {
-  // const [tweets, setTweets] = useState(777);
-  // const [followers, setFollowers] = useState((100500).toFixed(3));
   const isFollowing = localStorage.getItem('isFollowing');
-  const countFollowers = localStorage.getItem('countFollowers');
 
   const [following, setFollowing] = useState(
     isFollowing === 'true' ? isFollowing : false
