@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/test-for-tech-goit/static/css/main.7acaea2f.css",
-    "main.js": "/test-for-tech-goit/static/js/main.d2ee5465.js",
+    "main.css": "/test-for-tech-goit/static/css/main.b775ecf6.css",
+    "main.js": "/test-for-tech-goit/static/js/main.d071c800.js",
+    "static/media/picturebg.png": "/test-for-tech-goit/static/media/picturebg.9546ea226f69e5d9c295.png",
+    "static/media/twit.png": "/test-for-tech-goit/static/media/twit.e93652a5725ede00464c.png",
     "index.html": "/test-for-tech-goit/index.html",
-    "main.7acaea2f.css.map": "/test-for-tech-goit/static/css/main.7acaea2f.css.map",
-    "main.d2ee5465.js.map": "/test-for-tech-goit/static/js/main.d2ee5465.js.map"
+    "main.b775ecf6.css.map": "/test-for-tech-goit/static/css/main.b775ecf6.css.map",
+    "main.d071c800.js.map": "/test-for-tech-goit/static/js/main.d071c800.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.d2ee5465.js"
+    "static/css/main.b775ecf6.css",
+    "static/js/main.d071c800.js"
   ]
 }
